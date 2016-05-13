@@ -1,0 +1,20 @@
+[account]
+sinaweibo1 = haxxxx95600@163.com,wwee21
+sinaweibo2 = hbxxxxxx8496@163.com,wwee21
+sinaweibo3 = hcfsyxxxx49161@163.com,wwee21
+sinaweibo4 = he9602xxxx64tu@163.com,wwee21
+sinaweibo5 = he994xxx2@163.com,wwee21
+sinaweibo6 = hekxxx583412@163.com,wwee21
+sinaweibo7 = hemexxx1970@163.com,wwee21
+sinaweibo8 = heprxxx1296@163.com,wwee21
+sinaweibo9 = hflzxxx37469@163.com,wwee21
+sinaweibo10 = hfmxxxc40695@163.com,wwee21
+
+[record]
+currentpage = 57
+currentstarid = 0
+whichuser = 1
+
+[example]
+sinaweibox = account@a.com,password
+
